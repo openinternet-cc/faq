@@ -63,7 +63,7 @@ Settings > Wifi and Hotspot > Set Wifi Username and Password
 
 ## Creating an account
 
-1) Go to https://hq.openinternet.cc  
+1) Go to https://faq.openinternet.cc  
 2) Register your email. Make sure to use the same email you use for billing on your purchase.  
 
 ## How to purchase

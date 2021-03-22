@@ -1,4 +1,4 @@
-# M1 Unlimited Router Guide
+# M1 Freedom Router Guide
 
 ## SIM Card
 

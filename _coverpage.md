@@ -2,5 +2,3 @@
 
 # Open Internet Inc. 
 
-## Setup Guide
-

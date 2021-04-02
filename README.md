@@ -1,4 +1,4 @@
-# M1 Freedom Router Guide
+# M1 Freedom Router Guide <a name=m1></a>
 
 ## SIM Card
 

@@ -59,17 +59,17 @@ Settings > Wifi and Hotspot > Set Wifi Username and Password
 
 > NOTE: For best results, look for a central location in the house. Genearlly, higher elevations are better for data connectivity and will give faster speeds. If possible, place router in upstairs and connect to broadcasted wifi from devices on lower floor.
 
-# Prime VPN Guide
+# VPN Guide
 
 ## Creating an account
 
-1) Go to https://faq.openinternet.cc  
+1) Go to https://vpn.openinternet.cc  
 2) Register your email. Make sure to use the same email you use for billing on your purchase.  
 
 ## How to purchase
 
 1) Go to https://openinternet.cc/shop  
-2) Add Prime VPN to your cart  
+2) Add VPN to your cart  
 3) Continue to checkout. Make sure to add the correct billing email that will be tied to your account.  
 
 > If you have any issues, please reach out to us at support@openinternet.cc

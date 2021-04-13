@@ -7,28 +7,42 @@
 
 Choosing the correct SIM card is an important step of securing good mobile internet. Your maximum data speeds will always be bounded by the connection speed of your carrier in your location. 
 
-To setup your router, you have 2 basic options: 
+To setup your router, you have 2 basic options:   
 
-<b>1) Setup ATT prepaid data plan with included SIM for use with router.  </b>  
-    - flexible (no contract required)   
-    - $50/month with autopay  
-    - however, prepaid plans can be subject to more interruptions than postpaid contactual plans 
- 
-<b> 2) Use SIM card from my phone or preexisting plan, or setup new contract plan with carrier. (requires unlimited data plan) </b>  
-    - no additional monthly cost  
-    - howver, less convenient than dedicated data plan for router  
+1) __Postpaid (Recommended for medium to long term use - more than 6 months)__
 
-> NOTE: Generally, postpaid plans provide more reliable data connections than prepaid. If you already have existing lines, you may be able to add an additional line for less cost than setting up the postpaid. 
+- significantly faster speed
+- more reliable
+- best for using as home internet solution
 
-### Activation
+2) __Prepaid (Recomended for temporary/short term use - less than 6 months)__
 
-> Skip this step if you are choosing option #2.
+- slower
+- no contract required
+- good for using as temporary option if need on month/month basis (RV trips, travel)
+
+Use table below for plan comparison:  
+
+|                | Postpaid         | Prepaid             |
+| -----------         | -----------      | ---                 |
+| Speed               |  ✅ Up to 100+ mbps   | ❌ Up to 35 mbps        |
+| Cost | ✅ $55 or less per month | ✅ $50 or less per month |
+| Contract  |  ❌ Requires Contract Plan   |  ✅ No Contract Required     |
+| Term | 1 year minimum, then month-to-month | month-to-month |
+
+---
+
+#### Activation
+
+> Skip this step if you are choosing option #2, as you will activate your sim in-store.  
 
 
-AT&T Prepaid Card (Included in Kit)  
+AT&T Prepaid Card (Optionally Included in Kit)  
 
 __Online__: https://www.att.com/checkmyorder/activations/activateDevice.rt  
 __Phone__: 800-901-9878  
+
+---
 
 ### Installation
 
@@ -43,9 +57,11 @@ __Phone__: 800-901-9878
 <img src='./assets/add.png' style='width:15%;'>
 <img src='./assets/insert.png' style='width:15%;'>
 
+---
+
 ## Setup
   
-### Wifi
+### Configure Wifi
 
 __Turning on Wifi Hotspot__
 
@@ -56,9 +72,21 @@ __Setting Wifi Name and Password__
 Settings > Wifi and Hotspot > Set Wifi Username and Password
 
 
-> NOTE: For best results, look for a central location in the house. Genearlly, higher elevations are better for data connectivity and will give faster speeds. If possible, place router in upstairs and connect to broadcasted wifi from devices on lower floor.
+### Location in House
+
+Before placing your router, be sure to check your baseline data speed, known as your "base speed" in that location. To do that, open your internet browser and run a simple speed test. Repeat for all possible router locations. Choose the location which provides the best base speed and is still able to reach connected devices over Wifi.
+
+General Tips:  
+- look for a central location in the house. 
+- higher elevations are better (ex: upstairs > downstairs)
+- check your "base speed" before placement
+
+
+------
 
 # VPN Guide
+
+> Use this guide if you would like to use Open Internet VPN to block throttling and get faster speeds while using video streaming services such as Netflix.
 
 ## Creating an account
 
@@ -81,6 +109,8 @@ Settings > Wifi and Hotspot > Set Wifi Username and Password
 4) Click the blue "+" button and select "scan from QR code". 
 5) Give your VPN tunnel a name, then activate it by clicking the grey slider. It will show blue when activated. 
 7) Congratulations! You are now connected to Open Internet VPN and your cellular carrier will not be able to see your traffic. 
+
+---
 
 # General Troubleshooting 
 

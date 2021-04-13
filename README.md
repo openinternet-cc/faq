@@ -3,7 +3,6 @@
 ## SIM Card
 
 
-
 ### Choosing a Sim
 
 Choosing the correct SIM card is an important step of securing good mobile internet. Your maximum data speeds will always be bounded by the connection speed of your carrier in your location. 

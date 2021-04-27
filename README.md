@@ -7,7 +7,7 @@
 
 Choosing the correct SIM card is an important step of securing good mobile internet. Your maximum data speeds will always be bounded by the connection speed of your carrier in your location. 
 
-To setup your router, you have 2 basic options:   
+To setup your router, you have 3 basic options:   
 
 1) __Postpaid (Always Recommended)__
 
@@ -18,7 +18,7 @@ To setup your router, you have 2 basic options:
 
 2) __Prepaid (Not Recommended)__
 
-- slower
+- significantly slower (can be 3-10X slower compared to postpaid)
 - can be setup online
 
 Use table below for plan comparison:  
@@ -30,6 +30,14 @@ Use table below for plan comparison:
 | Contract  |  ✅ No Contract Required    |  ✅ No Contract Required     |
 | Term | ✅ month-to-month | ✅ month-to-month |
 | Setup |  In store required | Online |
+
+
+3) __Use SIM from other device (Best for temporary use or testing)__
+
+- no additional plan required
+- can be cumbersome to change out
+- requires preexisting unlimited plan on another device
+- great for testing or temporary use
 
 
 ---

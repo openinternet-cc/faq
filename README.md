@@ -9,38 +9,28 @@ Choosing the correct SIM card is an important step of securing good mobile inter
 
 To setup your router, you have 2 basic options:   
 
-1) __Postpaid (Recommended for medium to long term use - more than 6 months)__
+1) __Postpaid (Always Recommended)__
 
 - significantly faster speed
 - more reliable
 - best for using as home internet solution
+- must setup in store
 
-2) __Prepaid (Recomended for temporary/short term use - less than 6 months)__
+2) __Prepaid (Not Recommended)__
 
 - slower
-- no contract required
-- good for using as temporary option if need on month/month basis (RV trips, travel)
+- can be setup online
 
 Use table below for plan comparison:  
 
 |                | Postpaid         | Prepaid             |
 | -----------         | -----------      | ---                 |
 | Speed               |  ✅ Up to 100+ mbps   | ❌ Up to 35 mbps        |
-| Cost | ✅ $55 or less per month | ✅ $50 or less per month |
-| Contract  |  ❌ Requires Contract Plan   |  ✅ No Contract Required     |
-| Term | 1 year minimum, then month-to-month | month-to-month |
+| Cost | ✅ $50 or less per month | ✅ $50 or less per month |
+| Contract  |  ✅ No Contract Required    |  ✅ No Contract Required     |
+| Term | ✅ month-to-month | ✅ month-to-month |
+| Setup |  In store required | Online |
 
----
-
-#### Activation
-
-> Skip this step if you are choosing option #2, as you will activate your sim in-store.  
-
-
-AT&T Prepaid Card (Optionally Included in Kit)  
-
-__Online__: https://www.att.com/checkmyorder/activations/activateDevice.rt  
-__Phone__: 800-901-9878  
 
 ---
 
@@ -122,5 +112,7 @@ General Tips:
 
 ## Additional Support
 
-For any additional questions or concerns, please reach out to us at support@openinternet.cc!
+For any additional questions or concerns, please reach out to us:
+- [product support email](mailto://support@openinternet.cc)
+- [discord community](https://discord.gg/e5SeQV79Ru)
 

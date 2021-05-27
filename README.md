@@ -30,6 +30,7 @@ Use table below for plan comparison:
 | Contract  |  ✅ No Contract Required    |  ✅ No Contract Required     |
 | Term | ✅ month-to-month | ✅ month-to-month |
 | Setup |  In store required | Online |
+| Activation Fee |  ❌ $30 | ✅ No |
 
 
 3) __Use SIM from other device (Best for temporary use or testing)__
